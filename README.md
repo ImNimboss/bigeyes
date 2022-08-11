@@ -2,7 +2,7 @@
 
 ### BigEyes is a simple and extremely customizable surveillance system. It recognizes unauthorized faces entering its field of view and alerts you accordingly.
 
-### It is your personal CCTV system, and you can use it to monitor your home, office, or any other place you want.
+### It is your personal CCTV system, and you can use it to monitor private rooms in your home, office, or any other place you want.
 
 ## Setup
 
